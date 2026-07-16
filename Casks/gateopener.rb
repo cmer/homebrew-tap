@@ -1,6 +1,6 @@
 cask "gateopener" do
-  version "1.1.0"
-  sha256 "892d3b2c12596b9c9de35a475c18c0543713e2e22232a3d348d818c37ac8b618"
+  version "1.2.0"
+  sha256 "768211e12209e5809b4687b126370cce51e3f81e4816614f9a19ec1dcc957168"
 
   url "https://github.com/cmer/gateopener/releases/download/v#{version}/GateOpener-#{version}.zip"
   name "GateOpener"
