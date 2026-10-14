@@ -1,6 +1,6 @@
 cask "dmg-installer" do
-  version "1.2.0"
-  sha256 "9b407788a9d0aab078a906aa1af77155eb32026800d952585dc1c3356fd7246e"
+  version "1.2.1"
+  sha256 "45d3b5489ca5515897c00b785502952db537069a272d815c0bbefd6ee4a270e8"
 
   url "https://github.com/cmer/dmg_installer/releases/download/v#{version}/dmg_installer-#{version}.zip"
   name "DMG Installer"
