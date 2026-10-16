@@ -1,6 +1,6 @@
 cask "rundmg" do
-  version "2.0.0"
-  sha256 "97197b02b56e9b117e3df8963c7fc9e321381c8d5d19ff5c63213a51e5d476cd"
+  version "2.0.1"
+  sha256 "396c321bfb15e0e6eb77f3a7f3a7bcd4dc1285a3d0884862991a146b1d18b593"
 
   url "https://apps.bloomworks.org/rundmg/releases/#{version}/rundmg-#{version}.dmg"
   name "RunDMG"
