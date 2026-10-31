@@ -1,6 +1,6 @@
 cask "imessage-bridge" do
-  version "0.9.0"
-  sha256 "b60587402341b069c7c1e4bafe73dc27b90db15a2ba92b90f1a3abadaa4f7f86"
+  version "0.9.1"
+  sha256 "7ccdeed9847e41667634a6e2e88ca395efbbfd702a021f35d0c3e85775f68463"
 
   url "https://github.com/cmer/imessage-bridge/releases/download/v#{version}/iMessage-Bridge-#{version}.dmg"
   name "iMessage Bridge"
