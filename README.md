@@ -20,3 +20,4 @@ brew install --cask cmer/tap/gateopener
 | Cask | Description |
 | ---- | ----------- |
 | [gateopener](Casks/gateopener.rb) | Removes Gatekeeper quarantine attributes from apps |
+| [imessage-bridge](Casks/imessage-bridge.rb) | Gives AI agents controlled access to iMessage |
